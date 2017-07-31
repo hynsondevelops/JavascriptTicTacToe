@@ -1,0 +1,53 @@
+.empty
+{
+	height: 200px;
+	width: 200px;
+	background-color: green;
+	display: inline-block;
+}
+
+.O
+{
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	background-color: green;
+}
+
+.X
+{
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	background-color: green;
+}
+
+.row
+{
+	display: block;
+}
+
+#grid
+{
+	height: 608px;
+	width: 608px;
+	background-color: blue;
+}
+
+img
+{
+	height: 200px;
+	width: 200px;
+}
+
+body
+{
+	height: 608px;
+	width: 608px;
+	margin: 0 auto;
+}
+
+h3
+{
+	text-align: center;
+}
